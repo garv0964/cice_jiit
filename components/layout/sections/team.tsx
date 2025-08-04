@@ -57,10 +57,7 @@ export const TeamSection = () => {
           name: "LinkedIn",
           url: "https://www.linkedin.com/in/shaurya-singh-bb239b2b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
         },
-        {
-          name: "Github",
-          url: "https://github.com/Parulll3008",
-        },
+       
       ],
     },
     {
