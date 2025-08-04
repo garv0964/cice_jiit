@@ -29,7 +29,7 @@ interface SocialNetworkProps {
 export const TeamSection = () => {
   const [selectedYear, setSelectedYear] = useState("2025");
 
-  // 👇 Your 2025-26 Team (current)
+  // Your 2025-26 Team (current)
   const team_2025: TeamProps[] = [
     // Your current team list here
     {
@@ -71,10 +71,7 @@ export const TeamSection = () => {
           name: "LinkedIn",
           url: "https://www.linkedin.com/in/bhavy-sharma-1b6a212b2",
         },
-        {
-          name: "Github",
-          url: "https://github.com/Parulll3008",
-        },
+       
       ],
     },
     {
@@ -109,7 +106,7 @@ export const TeamSection = () => {
       socialNetworks: [
         {
           name: "LinkedIn",
-          url: "https://www.linkedin.com/in/dhruv-bal-dikshit-a57336244?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+          url: "https://www.linkedin.com/in/arjunkapoor4/",
         },
       ],
     },
@@ -124,10 +121,7 @@ export const TeamSection = () => {
           name: "LinkedIn",
           url: "https://www.linkedin.com/in/abhinav-jain-028718343?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
         },
-        {
-          name: "Github",
-          url: "https://github.com/rmall2003"
-        },
+     
       ],
     },
     {
@@ -151,7 +145,7 @@ export const TeamSection = () => {
       socialNetworks: [
         {
           name: "LinkedIn",
-          url: "https://www.linkedin.com/in/dhruv-bal-dikshit-a57336244?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+          url: "https://www.linkedin.com/in/tanishq-jain-21b9a3310/",
         },
       ],
     },
@@ -191,10 +185,7 @@ export const TeamSection = () => {
           name: "LinkedIn",
           url: "https://www.linkedin.com/in/rishika-aggarwal-462b2a280/",
         },
-        {
-          name: "Github",
-          url: "https://github.com/rishika-on-git",
-        },
+
       ],
     },
     {
@@ -207,10 +198,7 @@ export const TeamSection = () => {
           name: "LinkedIn",
           url: "https://www.linkedin.com/in/gunnaj/",
         },
-        {
-          name: "Github",
-          url: "https://github.com/Gunaj0517/",
-        },
+       
       ],
     },
     {
@@ -224,10 +212,7 @@ export const TeamSection = () => {
           name: "LinkedIn",
           url: "https://www.linkedin.com/in/sudeep-kumar-a9767028a",
         },
-        {
-          name: "Github",
-          url: "https://github.com/SuDeEpKuMaR912",
-        },
+      
       ],
     }, 
     {
@@ -239,7 +224,7 @@ export const TeamSection = () => {
       socialNetworks: [
         {
           name: "LinkedIn",
-          url: "https://www.linkedin.com/in/anshul-kansal-5740a2254/",
+          url: "https://www.linkedin.com/in/khushi-baranwal-633105372/",
         },
       ],
     }, 
@@ -252,7 +237,7 @@ export const TeamSection = () => {
       socialNetworks: [
         {
           name: "LinkedIn",
-          url: "http://linkedin.com/in/kashish-porwal-328a63289",
+          url: "https://www.linkedin.com/in/siya-kansal-31b8a9295/",
         },
       ],
     },
@@ -265,12 +250,9 @@ export const TeamSection = () => {
       socialNetworks: [
         {
           name: "LinkedIn",
-          url: "https://www.linkedin.com/in/madan-gopal-jha-380865255?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+          url: "https://www.linkedin.com/in/aditya315pathak/",
         },
-        {
-          name: "Github",
-          url: "https://github.com/Madan2468",
-        },
+       
       ],
     },   
     {
@@ -282,7 +264,7 @@ export const TeamSection = () => {
       socialNetworks: [
         {
           name: "LinkedIn",
-          url: "https://www.linkedin.com/in/aditya-sinha-7aa932268?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+          url: "https://www.linkedin.com/in/kriti-puri-b38bab26b/",
         },
       ],
     },
@@ -297,10 +279,7 @@ export const TeamSection = () => {
           name: "LinkedIn",
           url: "https://www.linkedin.com/in/vansh-bansal-9b4007265",
         },
-        {
-          name: "Github",
-          url:"https://github.com/vanshbansal1"
-        },
+      
       ],
     },
     {
@@ -312,13 +291,13 @@ export const TeamSection = () => {
       socialNetworks: [
         {
           name: "LinkedIn",
-          url: "https://www.linkedin.com/in/aditya-sinha-7aa932268?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+          url: "https://www.linkedin.com/in/pari-chawla-b8755628b/",
         },
       ],
     },
   ];
 
-  // 👇 Your 2024-25 Team (seniors)
+  //  Your 2024-25 Team (seniors)
   const team_2024: TeamProps[] = [
     {
       imageUrl:
