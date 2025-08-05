@@ -75,7 +75,7 @@ export const TeamSection = () => {
       ],
     },
     {
-      imageUrl: "Himang Bhatia.JPG",
+      imageUrl: "/image/Himangbhatia.JPG",
       firstName: "Himang",
       lastName: "Bhatia",
       positions: ["Organising Secretary"],
@@ -270,7 +270,7 @@ export const TeamSection = () => {
     },
     {
       imageUrl:
-        "/image/Vansh.jpg",
+        "/image/Vanshbansal.jpg",
       firstName: "Vansh",
       lastName: "Bansal",
       positions: ["Wish Town Head"],
