@@ -50,7 +50,7 @@ export const TeamSection = () => {
       imageUrl:
         "/image/Shaurya.jpg",
       firstName: "Shaurya Singh",
-      lastName: "Bishth",
+      lastName: "Bisht",
       positions: ["Vice President "],
       socialNetworks: [
         {
