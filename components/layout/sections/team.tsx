@@ -243,7 +243,7 @@ export const TeamSection = () => {
     },
     {
       imageUrl:
-        "/image/Aditya.JPG",
+        "/image/Aditya.jpg",
       firstName: "Aditya",
       lastName: "Pathak",
       positions: ["Cinematography Head"],
