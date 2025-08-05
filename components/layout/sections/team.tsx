@@ -75,7 +75,7 @@ export const TeamSection = () => {
       ],
     },
     {
-      imageUrl: "/image/Himang.jpg",
+      imageUrl: "Himang Bhatia.JPG",
       firstName: "Himang",
       lastName: "Bhatia",
       positions: ["Organising Secretary"],
