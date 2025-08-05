@@ -21,7 +21,7 @@ export const FooterSection = () => {
           <div className="flex flex-col gap-2">
             <h3 className="font-bold text-lg">Contact Us</h3>
             <div>
-              <Link href="cice.jiitn@gmail.com" className="opacity-60 hover:opacity-100">
+              <Link href="cicejiit.v2025@gmail.com" className="opacity-60 hover:opacity-100">
                 Email
               </Link>
             </div>
